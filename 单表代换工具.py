@@ -14,7 +14,7 @@ class MonoalphabeticCipher:
         self.suggested_first_letter_order = [
             's', 'c', 'p', 'a', 'd', 'r', 'b', 't', 'm', 'f',
             'i', 'e', 'h', 'l', 'g', 'w', 'o', 'u', 'n', 'v',
-            'j', 'k', 'q', 'v', 'z', 'x'
+            'j', 'k', 'q', 'y', 'z', 'x'
         ]
         self.common_words = {
             1: {'a', 'i'},
